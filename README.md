@@ -4,8 +4,8 @@ I'm an economist, data scientist, Pythonista, and open-source advocate with a fo
 
 ### Work
 
-- **Co-founder and CEO of [PolicyEngine](https://policyengine.org)**. PolicyEngine is an nonprofit that provides free, open source software to computes the impact of public policy. Our tax-benefit models span the US, UK, Canada, and Nigeria, and I spend most of my time building this organization. You can see our work at [github.com/PolicyEngine](https://github.com/PolicyEngine) or use our software at [policyengine.org](https://policyengine.org).
-- **Founder and president of the [UBI Center](https://github.com/ubicenter)**. The UBI Center is a nonprofit think tank conducting quantitative research into universal basic income policies. The UBI Center originally incubated PolicyEngine, and now it primarily applies PolicyEngine software for its research. You can see our work at [github.com/UBICenter](https://github.com/UBICenter) or read our reports at [ubicenter.org](https://ubicenter.org).
+- **Co-founder and CEO, [PolicyEngine](https://policyengine.org)**. PolicyEngine is an nonprofit that provides free, open source software to computes the impact of public policy. Our tax-benefit models span the US, UK, Canada, and Nigeria, and I spend most of my time building this organization. You can see our work at [github.com/PolicyEngine](https://github.com/PolicyEngine) or use our software at [policyengine.org](https://policyengine.org).
+- **Founder and president, [UBI Center](https://github.com/ubicenter)**. The UBI Center is a nonprofit think tank conducting quantitative research into universal basic income policies. The UBI Center originally incubated PolicyEngine, and now it primarily applies PolicyEngine software for its research. You can see our work at [github.com/UBICenter](https://github.com/UBICenter) or read our reports at [ubicenter.org](https://ubicenter.org).
 
 ### Previous work
 
