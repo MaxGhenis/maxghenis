@@ -7,6 +7,11 @@ I'm an economist, data scientist, Pythonista, and open-source advocate with a fo
 - **Co-founder and CEO of [PolicyEngine](https://policyengine.org)**. PolicyEngine is an nonprofit that provides free, open source software to computes the impact of public policy. Our tax-benefit models span the US, UK, Canada, and Nigeria, and I spend most of my time building this organization. You can see our work at [github.com/PolicyEngine](https://github.com/PolicyEngine) or use our software at [policyengine.org](https://policyengine.org).
 - **Founder and president of the [UBI Center](https://github.com/ubicenter)**. The UBI Center is a nonprofit think tank conducting quantitative research into universal basic income policies. The UBI Center originally incubated PolicyEngine, and now it primarily applies PolicyEngine software for its research. You can see our work at [github.com/UBICenter](https://github.com/UBICenter) or read our reports at [ubicenter.org](https://ubicenter.org).
 
+### Previous work
+
+- **Data scientist, Google (2010-2018)**. I co-founded the People Analytics Data Science team, then worked on the product side helping YouTube better serve users in low and middle income countries.
+- **Senior analyst, Beghou Consulting (2008-2010)**. I built quantitative models and automated reporting systems to help our clients evaluate marketing projects.
+
 ### Education
 
 - **M.S., Data, Economics, and Development Policy** - MIT (2020)
