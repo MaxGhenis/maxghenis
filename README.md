@@ -25,7 +25,7 @@ I'm an economist, data scientist, Pythonista, and open-source advocate with a fo
 - **Synthetic data advisory board member, Tax Policy Center** (August 2019 - Present)
 - **Co-founder and chair, Ventura County YIMBY** (August 2019 - September 2022)
 - **California state coordinator, Citizens' Climate Lobby** (January 2022 - September 2022)
-- **Organizer, Save the Gas Tax** (January 2022 - June 2022)
+- **Founder and organizer, Save the Gas Tax** (January 2022 - June 2022)
 - **Legislative committee member, Greater Oxnard Organization of Democrats** (November 2020 - September 2022)
 - **Group leader, Citizens' Climate Lobby Ventura** (January 2021 - December 2021)
 
